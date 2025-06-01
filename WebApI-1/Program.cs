@@ -6,6 +6,7 @@ namespace WebApI_1
         public static void Main(string[] args)
         {
             Console.WriteLine("hey");
+            Console.WriteLine("hejdå");
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
